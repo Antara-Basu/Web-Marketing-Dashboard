@@ -13,7 +13,6 @@ Total Unique Pageviews: The number of sessions during which a page was viewed at
 Exit Rate: Calculated as (Total Exits / Total Pageviews) * 100, it indicates the percentage of exits from a page.
 Bounce Rate: Calculated as (Total Bounces / Total Sessions) * 100, it represents the percentage of single-page sessions.
 
-
 **II)Charts** 
 **i)Bounce Rate Over Three Years (Weekly):**
 Chart: Line Chart
@@ -69,20 +68,12 @@ Advantage: Provides a comprehensive view of user engagement trends over time.
 The dashboard addresses the need for visualizing key web marketing metrics, identifying trends, and making informed decisions to optimize website performance and user engagement.
 
 **5) What I Learned in Tableau:**
-
-**1.Creating Interactive Dashboards**: I acquired the skill to design and export interactive dashboards that provide dynamic data visualization and insights.
-   
+**1.Creating Interactive Dashboards**: I acquired the skill to design and export interactive dashboards that provide dynamic data visualization and insights.   
 **2. Chart Variety**: I learned to create a diverse array of charts, including bar charts, line charts, packed bubble charts, text tables, and dual-axis charts. This variety allows for comprehensive and visually appealing data representation.
-
 **3. KPIs and Calculated Fields**: I developed the ability to create key performance indicators (KPIs) and calculated fields, such as SUM, to perform custom calculations and derive meaningful metrics from raw data.
-
 **4. Connecting to Data Sources**: I became proficient in connecting Tableau to various data sources, including Excel and CSV files. This skill is crucial for importing and working with data from different origins.
-
 **5. Containers and Layouts**: I learned to use vertical and horizontal containers, as well as blanks, to structure and organize the dashboard layout effectively, ensuring a clean and intuitive user interface.
-
 **6. Filtering Data**: I mastered the art of filtering data within Tableau, allowing users to focus on specific subsets of data and derive more targeted insights.
-
 **7. Dashboard Formatting**: I gained expertise in formatting dashboards, including adjusting labels, text colors, and other visual elements. This enhances the readability and overall aesthetic appeal of the dashboard.
-
 **6) Conclusion:**
 This Tableau web marketing dashboard provides an in-depth analysis of website performance, helping to identify trends, potential issues, and opportunities for optimization. By leveraging various charts and calculated fields, the dashboard offers a comprehensive view of web marketing metrics, supporting data-driven decision-making.
