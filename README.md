@@ -61,9 +61,9 @@ Explanation: Plots bounces and sessions over time with synchronized axes.
 Advantage: Provides a comprehensive view of user engagement trends over time.
 
 **3)Technical Details**
-Calculated Fields: Custom fields created using Tableau’s calculation language to derive new data from existing data.
-Dual Axis: A feature in Tableau that allows you to layer two different measures on the same chart with separate y-axes.
-Synchronized Axis: Ensures that the scales of the two y-axes are aligned, providing a clear comparison between the two measures.
+**Calculated Fields:** Custom fields created using Tableau’s calculation language to derive new data from existing data.
+**Dual Axis:** A feature in Tableau that allows you to layer two different measures on the same chart with separate y-axes.
+**Synchronized Axis:** Ensures that the scales of the two y-axes are aligned, providing a clear comparison between the two measures.
 
 **4)Problem Solving:**
 The dashboard addresses the need for visualizing key web marketing metrics, identifying trends, and making informed decisions to optimize website performance and user engagement.
